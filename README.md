@@ -1,6 +1,7 @@
 # react-native-view-overflow
+**IMPORTANT: We created this fork for using a lower version for Gradle. THIS IS A VERY SPECIFIC use case for our application... We don't recommend you to use this repository unless you have incompatibility issues with the version of Gradle on your app.**
 
-## Motivation
+## Motivation (forked!)
 
 The problem is that a parent View in Android will clip the content of children Views (react-native)
 
